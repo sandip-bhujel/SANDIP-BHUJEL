@@ -16,9 +16,17 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,spring,html,css,tailwind,bootstrap,wordpress,canva,vscode,git,github&perline=6"/>
-</p>
+
+
+- **Languages**  
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />  
+
+- **Frameworks & Libraries**  
+  <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" />  
+
+- **Tools & Platforms**  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,canva" />
+
 
 ---
 
