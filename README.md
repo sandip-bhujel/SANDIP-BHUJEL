@@ -14,9 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-
+## 🛠️ Tech Stack
 
 - **Languages**  
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />  
@@ -24,8 +22,12 @@
 - **Frameworks & Libraries**  
   <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" />  
 
+- **Databases & Cloud**  
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />  
+
 - **Tools & Platforms**  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,vercel,netlify,wordpress,figma" />
+
 
 
 ---
