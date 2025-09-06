@@ -16,18 +16,17 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**  
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />  
+**Languages:**  
+JavaScript, TypeScript, HTML, CSS  
 
-- **Frameworks & Libraries**  
-  <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" />  
+**Frameworks & Libraries:**  
+React, Spring, Tailwind CSS, Bootstrap  
 
-- **Databases & Cloud**  
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />  
+**Databases & Cloud:**  
+MySQL, PostgreSQL, Supabase  
 
-- **Tools & Platforms**  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,vercel,netlify,wordpress,figma" />
-
+**Tools & Platforms:**  
+Git, GitHub, VSCode, IntelliJ IDEA, Vercel, Netlify, WordPress, Figma, Canva
 
 
 ---
