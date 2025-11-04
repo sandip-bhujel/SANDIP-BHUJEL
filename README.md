@@ -1,6 +1,6 @@
 # Hey There! 👋 I am Sandip Bhujel  
 
-「 💻 Frontend Developer Exploring Full Stack | 🌱 Lifelong Learner 」  
+「 💻Web Developer | 🌱 Lifelong Learner 」  
 
 ---
 
